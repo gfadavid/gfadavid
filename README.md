@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfadavid&label=Profile%20views&color=0e75b6&style=flat" alt="gfadavid" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gfadavid" target="blank"><img src="https://img.shields.io/twitter/follow/gfadavid?logo=twitter&style=for-the-badge" alt="gfadavid" /></a> </p>
-
 - 🔭 I’m currently working on [my website](in construction)
 
 - 🌱 I’m currently learning **Javascript, Angular, React & VUE - Java, Primefaces, Spring Boot**
